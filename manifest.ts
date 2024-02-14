@@ -17,8 +17,8 @@ import { ReplyToMessageOnTicketResolution } from "./workflows/reply_to_message_o
  * https://api.slack.com/future/manifest
  */
 export default Manifest({
-  name: "lumofy-support-bot",
-  displayName: "Lumofy - Support Bot",
+  name: "Support-Bot",
+  displayName: "Support Bot",
   description:
     "Workflows for integrating the #support channel with our Jira board.",
   icon: "assets/default_new_app_icon.png",
