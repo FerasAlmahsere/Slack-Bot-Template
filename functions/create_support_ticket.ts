@@ -38,7 +38,7 @@ export default SlackFunction(
   ) => {
     try {
       await axiod.post(
-        "https://automation.atlassian.com/pro/hooks/ab79348c35660129a046141012d54402b0102b6c",
+        "https://automation.atlassian.com/pro/hooks/bb8ac172e902556ef5977e4613ef1ab7ef81dd46",
         {
           issuetype,
           summary,
